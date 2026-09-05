@@ -1,0 +1,1 @@
+BBO on HL isn't actually "stale" best bid and best ask just move very slowed compared to binance while on Binance update rate is about 0.6 seconds on HL 5.6 crazy but it isn't because of websocket problems or because my data collection doesn't work well just actual reality 
