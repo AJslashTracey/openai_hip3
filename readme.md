@@ -1,1 +1,4 @@
 BBO on HL isn't actually "stale" best bid and best ask just move very slow compared to binance. While on Binance mean updated rate is about 0.6 seconds,  on the HL:io pair we come down to a mean update rate of 5.6s for the BBO, crazy but this isn't because of websocket problems or because my data collection doesn't work, just actual reality.
+
+
+Hmu if you want more data I am tracking tons of data on my server
